@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react';
 import type { CounterStats } from './types';
-import backgroundImage from './assets/background.jpg';
+import backgroundImage from './assets/background.webp';
 
 // Definimos la interfaz para el estado del tiempo
 interface TimeLeft {
